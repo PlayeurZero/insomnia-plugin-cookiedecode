@@ -1,0 +1,20 @@
+{
+  "name": "insomnia-plugin-cookiedecode",
+  "version": "1.0.0",
+  "author": {
+    "email": "n.mathieu@splitfire.fr",
+    "name": "Nicolas Mathieu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PlayeurZero/insomnia-plugin-cookiedecode"
+  },
+  "bugs": {
+    "url": "https://github.com/PlayeurZero/insomnia-plugin-cookiedecode/issues"
+  },
+  "insomnia": {
+    "name": "cookiedecode",
+    "description": "Get a decoded cookie using decodeURIComponent"
+  },
+  "main": "main.js"
+}
